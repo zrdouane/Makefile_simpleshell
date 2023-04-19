@@ -1,10 +1,10 @@
-Here's a possible README.md file for the provided makefile:
-
 # Makefile for Simple_shell project
 
 This makefile provides rules to compile, link, and clean up the hsh project. The project is a simple shell program implemented in C language.
 
 ## Usage
+
+clone this repo to your simple shell folder and mv the makefile from my folder to your working directory.
 
 To compile the project and create the `hsh` executable, run the following command:
 
